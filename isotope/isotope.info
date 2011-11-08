@@ -1,0 +1,5 @@
+name = Isotope.js Library
+description = David DeSandro's Isotope.js exposed to the libraries api
+dependencies[] = libraries
+configure = admin/config/isotope
+core = 7.x
